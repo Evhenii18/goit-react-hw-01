@@ -1,0 +1,10 @@
+.name {
+    text-align: center;
+}
+.online {
+   color: green;
+}
+
+.offline {
+    color: red;
+}
